@@ -1,4 +1,5 @@
 # VictoryChartExample
 
-![alt text](https://www.dropbox.com/s/uyoz72f1cdebi79/github_victorychart.png?dl=0 "Description goes here")
+Here is screenshots
+https://www.dropbox.com/s/uyoz72f1cdebi79/github_victorychart.png?dl=0
 
